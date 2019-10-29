@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c5576559f5b6f237342b68182552c5d",
+    "revision": "a0c6a4c223cbe0ac4f32e8d3d485982d",
     "url": "/alegra-page/index.html"
   },
   {
-    "revision": "8bed8d59cf5d1597148e",
+    "revision": "5f981d716b3a422689df",
     "url": "/alegra-page/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "1cbef3827f18cc1923df",
+    "revision": "ef62e367d34bdbc5b4fe",
     "url": "/alegra-page/static/css/main.90d5cfb1.chunk.css"
   },
   {
-    "revision": "8bed8d59cf5d1597148e",
-    "url": "/alegra-page/static/js/2.aa8c9020.chunk.js"
+    "revision": "5f981d716b3a422689df",
+    "url": "/alegra-page/static/js/2.c0cd66b2.chunk.js"
   },
   {
-    "revision": "1cbef3827f18cc1923df",
-    "url": "/alegra-page/static/js/main.d3c3fef6.chunk.js"
+    "revision": "ef62e367d34bdbc5b4fe",
+    "url": "/alegra-page/static/js/main.7fd3d033.chunk.js"
   },
   {
     "revision": "b15051f5f429fbedfc1d",

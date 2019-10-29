@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/alegra-page/precache-manifest.cf0db540a4832bc9c31df87f3b43e019.js"
+  "/alegra-page/precache-manifest.489fc48dd3efdca66cb39e466bf9f035.js"
 );
 
 self.addEventListener('message', (event) => {

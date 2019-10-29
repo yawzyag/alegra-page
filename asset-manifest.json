@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/alegra-page/static/css/main.90d5cfb1.chunk.css",
+    "main.js": "/alegra-page/static/js/main.d3c3fef6.chunk.js",
+    "main.js.map": "/alegra-page/static/js/main.d3c3fef6.chunk.js.map",
+    "runtime-main.js": "/alegra-page/static/js/runtime-main.74ad3d77.js",
+    "runtime-main.js.map": "/alegra-page/static/js/runtime-main.74ad3d77.js.map",
+    "static/css/2.0624914a.chunk.css": "/alegra-page/static/css/2.0624914a.chunk.css",
+    "static/js/2.aa8c9020.chunk.js": "/alegra-page/static/js/2.aa8c9020.chunk.js",
+    "static/js/2.aa8c9020.chunk.js.map": "/alegra-page/static/js/2.aa8c9020.chunk.js.map",
+    "index.html": "/alegra-page/index.html",
+    "precache-manifest.cf0db540a4832bc9c31df87f3b43e019.js": "/alegra-page/precache-manifest.cf0db540a4832bc9c31df87f3b43e019.js",
+    "service-worker.js": "/alegra-page/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/alegra-page/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.90d5cfb1.chunk.css.map": "/alegra-page/static/css/main.90d5cfb1.chunk.css.map",
+    "static/media/logo.svg": "/alegra-page/static/media/logo.eab1abc8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74ad3d77.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.aa8c9020.chunk.js",
+    "static/css/main.90d5cfb1.chunk.css",
+    "static/js/main.d3c3fef6.chunk.js"
+  ]
+}
